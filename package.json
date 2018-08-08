@@ -1,0 +1,11 @@
+{
+  "name": "nri-ex-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "js-yaml": "^3.12.0",
+    "ramda": "^0.25.0"
+  }
+}
